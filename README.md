@@ -91,6 +91,15 @@ GazePointSDK-Windows/
 └── GazePoint.SDK.Windows.sln
 ```
 
+## Example
+
+```bash
+cd example
+dotnet restore && dotnet build && dotnet run
+```
+
+Requires Windows 10+ and a webcam. Tag: `v1.0.0`. See [TESTING.md](https://github.com/Tareq-Ghassan/FaceDetection-GazePoint/blob/main/TESTING.md).
+
 ## License
 
 MIT License
