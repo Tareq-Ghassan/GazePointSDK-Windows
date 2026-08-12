@@ -98,7 +98,7 @@ cd example
 dotnet restore && dotnet build && dotnet run
 ```
 
-Requires Windows 10+ and a webcam. Tag: `v1.0.0`. See [TESTING.md](https://github.com/Tareq-Ghassan/FaceDetection-GazePoint/blob/main/TESTING.md).
+Requires Windows 10+ and a webcam. Tag: `v1.0.0`. You cannot run this from macOS. Use a Windows PC, a Windows 11 ARM VM (UTM), or CI for compile-only. See [TESTING.md](https://github.com/Tareq-Ghassan/FaceDetection-GazePoint/blob/main/TESTING.md#no-windows-or-linux-pc).
 
 ## License
 
